@@ -44,7 +44,7 @@
 - Espera-se que seja escrito utilizando as frameworks de desenvolvimento atuais tanto para a apresentação (frontend) quanto o processamento/armazenamento (backend)
 
 ### Entrega
-- O prazo de entrega é dia **xx/xx às 23:59**
+- O prazo de entrega é de 7 dias após o fork.
 - As alterações realizadas após este prazo não serão avaliadas
 - Commit o seu projeto neste mesmo projeto github
 - Crie um arquivo **Respostas.md** com as respostas das questões e os passos para compilar/executar a aplicação

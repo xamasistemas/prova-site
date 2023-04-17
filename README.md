@@ -2,7 +2,7 @@
 
 **Premissa**
 > Nosso novo cliente precisa de um site para que os visitantes enviem mensagem a ele pelo contato e possam ver uma página com a história da empresa.
-> As mensaegens enviadas pelo formulário de contato, deverão ficar armazenadas em uma tela gerencial, porém deverão ser enviadas para o email de contato da empresa.
+> As mensagens enviadas pelo formulário de contato, deverão ficar armazenadas em uma tela gerencial, porém deverão ser enviadas para o email de contato da empresa.
 > A página com o histórico da empresa, ele pretende atualizar de 6 em 6 meses, porque está aumentando o seu parque fabril e quer colocar semestralmente no histórico da empresa, a sua evolução
 
 ### Especificação
@@ -48,4 +48,4 @@
 - As alterações realizadas após este prazo não serão avaliadas
 - Commit o seu projeto neste mesmo projeto github
 - Crie um arquivo **Respostas.md** com as respostas das questões e os passos para compilar/executar a aplicação
-- Qualquer dúvida, entre em contato pelo email: [dev@xamasistemas.com.br](mailto:dev@xamasistemas.com.br)
+- Qualquer dúvida, entre em contato pelo email: [xama@xamasistemas.com.br](mailto:xama@xamasistemas.com.br)
